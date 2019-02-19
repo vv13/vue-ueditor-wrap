@@ -1,3 +1,9 @@
+变动：
+1. 更新UEditor版本到2.0.0
+2. 隐藏元素路径的显示
+
+
+
 # vue-ueditor-wrap
 
 <p align="center">
@@ -361,8 +367,6 @@ yarn add vue-ueditor-wrap
 > 更多问题，欢迎提交 [ISSUE](https://github.com/HaoChuan9421/vue-ueditor-wrap/issues) 或者去 [聊天室](https://gitter.im/haochuan9421/vue-ueditor-wrap/) 提问。但由于这是一个个人维护的项目，我平时也有自己的工作，所以并不能保证及时解决你们的所有问题，如果小伙伴们有好的建议或更炫酷的操作，也欢迎 `PR`，如果你觉得这个组件给你的开发带来了实实在在的方便，也非常感谢你的`Star`，当然还有咖啡：
 
 > 代码修改请遵循指定的 `ESLint` 规则，`PR` 之前请先执行 `npm run lint` 进行代码风格检测，大部分语法细节可以通过 `npm run fix` 修正，构建之后，记得修改 `package.json` 里的版本号，方便我 `Review` 通过后麻溜溜的发布到 `npm`。
-
-<img src="https://github.com/HaoChuan9421/vue-ueditor-wrap/raw/master/assets/images/alipay.png" height="250"/><img src="https://github.com/HaoChuan9421/vue-ueditor-wrap/raw/master/assets/images/wxpay.png" height="250"/>
 
 ## License
 
